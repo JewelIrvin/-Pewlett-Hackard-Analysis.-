@@ -34,4 +34,4 @@ The retirement_titles table showcast all the employees eligible for retirement a
 ## Summary
 From the analysis, I noticed that majority of the workforce is either at the retirement age or mentorship eligbile. This would provide an open/increase in the job market in the near future.
 
-### Also, some additional queries we can make can include the turnover rate at the different departments. We can caluclate the start date and end date to see whether or not which department should improve their training programs and leadership styles.
+ Also, some additional queries we can make can include the turnover rate at the different departments. We can caluclate the start date and end date to see whether or not which department should improve their training programs and leadership styles.
