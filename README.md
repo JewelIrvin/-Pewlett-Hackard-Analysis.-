@@ -1,4 +1,4 @@
-# -Pewlett-Hackard-Analysis.-
+# -Pewlett-Hackard-Analysis
 ## Overview
 The purpose of this project is to retreive the number of retiring employees by title and identify which employees are eligible to to participate in the mentorship program.
 
