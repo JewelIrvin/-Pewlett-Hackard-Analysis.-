@@ -9,7 +9,7 @@ Deliverable 2: The Employees Eligible for the Mentorship Program
 Deliverable 3: A written report on the employee database analysis
 
 ## Results
-###The retirement_titles table showcast all the employees eligible for retirement and how long they worked at their position over the course of their career.
+### The retirement_titles table showcast all the employees eligible for retirement and how long they worked at their position over the course of their career.
 
 <img width="804" alt="Retirement_titles" src="https://user-images.githubusercontent.com/107570913/204696496-88375033-6c05-4862-84ab-4e0bda08a86c.png">
 
