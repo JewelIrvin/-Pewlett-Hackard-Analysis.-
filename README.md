@@ -4,9 +4,9 @@ The purpose of this project is to retreive the number of retiring employees by t
 
 ## Tasked to Complete these Deliverables:
 
-Deliverable 1: The Number of Retiring Employees by Title
-Deliverable 2: The Employees Eligible for the Mentorship Program
-Deliverable 3: A written report on the employee database analysis
+* Deliverable 1: The Number of Retiring Employees by Title
+* Deliverable 2: The Employees Eligible for the Mentorship Program
+* Deliverable 3: A written report on the employee database analysis
 
 ## Results
 ### The retirement_titles table showcast all the employees eligible for retirement and how long they worked at their position over the course of their career.
