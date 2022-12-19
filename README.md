@@ -1,6 +1,11 @@
 # -Pewlett-Hackard-Analysis
-## Overview
+## Overview:
 The purpose of this project is to retreive the number of retiring employees by title and identify which employees are eligible to to participate in the mentorship program.
+
+## Instructions: 
+"Now that Bobby has proven his SQL chops, his manager has given both of you two more assignments: determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Then, you’ll write a report that summarizes your analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age."
+
+
 
 ## Tasked to Complete these Deliverables:
 
@@ -8,7 +13,7 @@ The purpose of this project is to retreive the number of retiring employees by t
 * Deliverable 2: The Employees Eligible for the Mentorship Program
 * Deliverable 3: A written report on the employee database analysis
 
-## Results
+## Results:
 ### The retirement_titles table showcast all the employees eligible for retirement and how long they worked at their position over the course of their career.
 
 <img width="804" alt="Retirement_titles" src="https://user-images.githubusercontent.com/107570913/204696496-88375033-6c05-4862-84ab-4e0bda08a86c.png">
@@ -31,7 +36,7 @@ The purpose of this project is to retreive the number of retiring employees by t
 <img width="804" alt="Mentorship_Eligibility" src="https://user-images.githubusercontent.com/107570913/204696619-53b798a7-36c9-426b-96ff-7c63885602b7.png">
 
 
-## Summary
+## Summary:
 From the analysis, I noticed that approx. 64 % of the workforce is either at the retirement age or mentorship eligbile. This would provide an open/increase in the job market in the near future for.
 
  Also, some additional queries we can make can include the turnover rate at the different departments. We can caluclate the start date and end date to see whether or not which department should improve their training programs and leadership styles.
