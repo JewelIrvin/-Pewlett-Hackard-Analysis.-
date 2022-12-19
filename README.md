@@ -8,8 +8,8 @@ Deliverable 1: The Number of Retiring Employees by Title
 Deliverable 2: The Employees Eligible for the Mentorship Program
 Deliverable 3: A written report on the employee database analysis
 
-### Results
-The retirement_titles table showcast all the employees eligible for retirement and how long they worked at their position over the course of their career.
+## Results
+###The retirement_titles table showcast all the employees eligible for retirement and how long they worked at their position over the course of their career.
 
 <img width="804" alt="Retirement_titles" src="https://user-images.githubusercontent.com/107570913/204696496-88375033-6c05-4862-84ab-4e0bda08a86c.png">
 
@@ -20,7 +20,7 @@ The retirement_titles table showcast all the employees eligible for retirement a
 <img width="804" alt="Unique_Titles" src="https://user-images.githubusercontent.com/107570913/204696536-f92b2c23-a3f4-4578-984a-ce94f1d68a05.png">
 
 
-### The retiring titles table shows us the amount of the employees that are retirement age that have senior titles.
+### The retiring titles table shows us the amount of the employees that are retirement age that have senior titles. I calucted that (57,668/90,398 = 64%) have senior titles.
 
 <img width="804" alt="Retiring_titles" src="https://user-images.githubusercontent.com/107570913/204696583-fbfd0230-1744-49d1-b865-a2e7cc641e2c.png">
 
@@ -32,6 +32,6 @@ The retirement_titles table showcast all the employees eligible for retirement a
 
 
 ## Summary
-From the analysis, I noticed that majority of the workforce is either at the retirement age or mentorship eligbile. This would provide an open/increase in the job market in the near future.
+From the analysis, I noticed that approx. 64 % of the workforce is either at the retirement age or mentorship eligbile. This would provide an open/increase in the job market in the near future for.
 
  Also, some additional queries we can make can include the turnover rate at the different departments. We can caluclate the start date and end date to see whether or not which department should improve their training programs and leadership styles.
